@@ -300,5 +300,69 @@ Proudcts
   @media only screen and (max-width: 990px) {
     .products .product-grid4 {
       margin-bottom: 30px; } }
+  .products hr {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px; }
+
+/*
+=================
+ Blog
+=================
+*/
+.blog {
+  padding-bottom: 30px; }
+  .blog .text-shipping {
+    background-color: #ececec;
+    padding: 15px;
+    font-family: sans-serif;
+    border-radius: 8px; }
+    .blog .text-shipping h3 {
+      text-align: left;
+      text-transform: capitalize; }
+    .blog .text-shipping p {
+      text-align: center;
+      text-transform: capitalize; }
+  .blog .testimonials {
+    background-color: #ececec;
+    padding: 15px;
+    font-family: sans-serif;
+    border-radius: 8px; }
+    .blog .testimonials h3 {
+      text-align: left;
+      text-transform: capitalize; }
+    .blog .testimonials p {
+      text-align: center;
+      text-transform: capitalize; }
+  .blog .blog-new {
+    background-color: #ececec;
+    padding: 10px;
+    font-family: sans-serif;
+    border-radius: 8px; }
+    .blog .blog-new h3 {
+      text-align: left;
+      text-transform: capitalize;
+      font-size: 25px; }
+    .blog .blog-new .new-item {
+      display: flex; }
+      .blog .blog-new .new-item .new-date {
+        flex-basis: 30%;
+        text-align: center; }
+        .blog .blog-new .new-item .new-date .new-date-item {
+          width: 90%;
+          padding: 10px;
+          background-color: #50b08f; }
+          .blog .blog-new .new-item .new-date .new-date-item span {
+            display: block; }
+      .blog .blog-new .new-item .new-detail h3 {
+        text-align: left;
+        font-size: 17px;
+        font-weight: 600;
+        text-transform: capitalize; }
+      .blog .blog-new .new-item .new-detail p {
+        font-size: 12px;
+        text-align: center;
+        text-transform: capitalize; }
 
 /*# sourceMappingURL=style.css.map */

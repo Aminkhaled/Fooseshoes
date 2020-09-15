@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c696165-2915-4dfb-b3f4-97d3e49e0bc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/img/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/img/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/img/6.jpg" afterDir="false" />
+    <list default="true" id="4c696165-2915-4dfb-b3f4-97d3e49e0bc2" name="Default Changelist" comment="we added offers of products">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/css/.sass-cache/b7a6eee02f92e200f9dbb31ea49bc16fe087c33d/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/css/.sass-cache/b7a6eee02f92e200f9dbb31ea49bc16fe087c33d/style.scssc" afterDir="false" />
@@ -72,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600162832817</updated>
-      <workItem from="1600162833936" duration="18065000" />
+      <workItem from="1600162833936" duration="22234000" />
     </task>
     <task id="LOCAL-00001" summary="we added offers sections">
       <created>1600176105234</created>
@@ -100,10 +94,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="we added offers of products" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="282" y="0" key="CommitChangelistDialog2" timestamp="1600182153547">
+    <state x="282" y="0" key="CommitChangelistDialog2" timestamp="1600182293034">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="282" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600182153547" />
+    <state x="282" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600182293034" />
     <state x="352" y="142" key="EditFileWatcherDialog" timestamp="1600162998437">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
