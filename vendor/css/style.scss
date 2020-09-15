@@ -306,3 +306,127 @@ Proudcts
     }
   }
 }
+/*
+=================
+ Footer
+=================
+*/
+footer{
+  background-color: #242424;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  .first-footer{
+    h2{
+      font-size: 20px;
+    }
+    p{
+      font-size: 15px;
+    }
+    h2,p{
+      color: lightgray;
+      text-align: left;
+      margin-bottom: 10px;
+    }
+  }
+  .second-footer{
+    h2{
+      color: lightgray;
+      margin-bottom: 10px;
+      font-size: 20px;
+      text-align: left;
+
+    }
+    .shtaga{
+
+      p{
+        color: lightgray;
+        font-size: 15px;
+        text-align: left;
+
+      }
+      i{
+        color: $mainColor;
+      }
+      span{
+        color: lightgray;
+        display: block;
+        text-align: left;
+        margin-left: 25px;
+        margin-top: 5px;
+      }
+    }
+
+  }
+
+}
+footer{
+  .images-unit{
+    h2{
+      color: lightgray;
+      font-size: 25px;
+      text-align: left;
+      margin-bottom: 10px;
+
+    }
+    .gallery{
+      -webkit-column-count: 3;
+      -webkit-column-gap:   3px;
+      -moz-column-count:    3;
+      -moz-column-gap:      3px;
+      column-count:         3;
+      column-gap:           3px;
+
+      .img img{
+        width: 100% !important;
+        height: 100px !important;
+        margin-bottom: 5px;
+      }
+    }
+
+  }
+  hr{
+    width: 100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top-color: currentcolor;
+    border-top-style: none;
+    border-top-width: 0px;
+    border-top: 2px solid rgba(0,0,0,0.5);
+  }
+  form{
+    position: relative;
+    margin-top: 20px;
+    .form-control {
+      display: block;
+      width: 100%;
+      height: calc(1.5em + .75rem + 12px);
+      padding: .375rem .75rem;
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.5;
+      color: white;
+      background-color: #2e2e2e;
+      background-clip: padding-box;
+      border: 1px solid #242424;
+      border-radius: 0.25rem;
+      transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+      }
+    i.fa{
+      position: absolute;
+      top: 2px;
+      font-size: 16px;
+      left: 298px;
+      padding: 14px 18px;
+      background-color: #7d7d7d;
+      border-radius: 5px;
+      color: #242424c4;
+      transition: all 1s ease-in-out;
+      &:hover{
+        color: black;
+        background-color: white;
+      }
+    }
+    }
+  }
+
