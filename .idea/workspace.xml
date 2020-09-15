@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c696165-2915-4dfb-b3f4-97d3e49e0bc2" name="Default Changelist" comment="" />
+    <list default="true" id="4c696165-2915-4dfb-b3f4-97d3e49e0bc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/css/.sass-cache/b7a6eee02f92e200f9dbb31ea49bc16fe087c33d/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/css/.sass-cache/b7a6eee02f92e200f9dbb31ea49bc16fe087c33d/style.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/css/style.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,14 +30,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hXgQI38bxalqI97ha1a157UFEx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/vendor/img" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -53,14 +72,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600162832817</updated>
-      <workItem from="1600162833936" duration="12598000" />
+      <workItem from="1600162833936" duration="17652000" />
     </task>
+    <task id="LOCAL-00001" summary="we added offers sections">
+      <created>1600176105234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600176105234</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="we added offers sections" />
+    <option name="LAST_COMMIT_MESSAGE" value="we added offers sections" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="282" y="0" key="CommitChangelistDialog2" timestamp="1600176102499">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="282" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600176102499" />
     <state x="352" y="142" key="EditFileWatcherDialog" timestamp="1600162998437">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
