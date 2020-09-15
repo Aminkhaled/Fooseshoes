@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+/*
+============
+Header
+============
+*/
+header {
+  background-color: black;
+  color: white; }
+  header h1 {
+    font-size: 40px;
+    color: #50b08f; }
+  header .member-info {
+    margin-top: 10px; }
+    header .member-info a {
+      margin-left: 5px;
+      color: white;
+      text-decoration: none;
+      transition: all 1s ease-out;
+      font-size: 20px; }
+      header .member-info a:hover {
+        color: gray; }
+      header .member-info a:nth-child(1) {
+        border-right: 1px solid gray;
+        padding-right: 10px; }
+
+/*
+=============
+Navs
+============
+
+*/
+.navbar-expand-lg .nav-cart {
+  margin: 0 auto; }
+  .navbar-expand-lg .nav-cart i.fa {
+    font-size: 20px; }
+  .navbar-expand-lg .nav-cart span {
+    margin-left: 10px; }
+  .navbar-expand-lg .nav-cart .nav-item .count-wishlist {
+    margin-left: 5px;
+    padding: 6px 12px;
+    background: gray;
+    border-radius: 6px;
+    color: white; }
+  .navbar-expand-lg .nav-cart .nav-item .count-cart {
+    background-color: #50b08f;
+    padding: 6px 12px;
+    border-radius: 6px;
+    color: white; }
+
+/*# sourceMappingURL=style.css.map */
