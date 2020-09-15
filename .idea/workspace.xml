@@ -72,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600162832817</updated>
-      <workItem from="1600162833936" duration="17652000" />
+      <workItem from="1600162833936" duration="18065000" />
     </task>
     <task id="LOCAL-00001" summary="we added offers sections">
       <created>1600176105234</created>
@@ -81,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600176105234</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="we added offers of products">
+      <created>1600182156978</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600182156978</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,13 +96,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="we added offers sections" />
-    <option name="LAST_COMMIT_MESSAGE" value="we added offers sections" />
+    <MESSAGE value="we added offers of products" />
+    <option name="LAST_COMMIT_MESSAGE" value="we added offers of products" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="282" y="0" key="CommitChangelistDialog2" timestamp="1600176102499">
+    <state x="282" y="0" key="CommitChangelistDialog2" timestamp="1600182153547">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="282" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600176102499" />
+    <state x="282" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600182153547" />
     <state x="352" y="142" key="EditFileWatcherDialog" timestamp="1600162998437">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -164,6 +172,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1306" height="44" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1600169907822" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600182160568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600182160568" />
     <state x="339" y="164" key="run.anything.popup" timestamp="1600163203844">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
