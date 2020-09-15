@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600&display=swap');
+$mainColor:#50b08f;
+$mainFont:'Dancing Script', cursive;
 *{
   margin: 0;
   padding: 0;
@@ -68,5 +71,97 @@ Navs
         color: white;
       }
     }
+  }
+}
+/*
+=====================
+Carousel
+====================
+*/
+.fooseshoes-carousel{
+  .carousel-indicators li{
+    background-color:#50b08f ;
+  }
+  .carousel-caption {
+    position: absolute;
+    right: -17%;
+    bottom: 0;
+    top: 5%;
+    z-index: 10;
+    color: black;
+    padding-bottom: 20px;
+    text-align: center;
+    .price{
+      font-size: 30px;
+      color: white;
+      margin-bottom: 20%;
+      margin-right: 12%;
+      border-radius: 2px;
+      padding: 14px;
+      background-color: #57c5a0;
+    }
+    h1{
+      margin-top: 2%;
+      margin-left: 4%;
+      text-transform: uppercase;
+      font-weight: 600;
+      font-family: $mainFont;
+      font-size: 60px;
+    }
+    h3{
+      margin-left: 11%;
+      text-transform: uppercase;
+      font-weight: 600;
+      font-family: $mainFont;
+      font-size: 40px;
+    }
+p{
+  margin-left: 36%;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: "Dancing Script", cursive;
+  font-size: 20px;
+  width: 40%;
+}
+  }
+}
+/*
+=============
+Sales Offers
+=============
+*/
+.sale-offers{
+  padding-top:30px;
+  padding-bottom:30px;
+  background-color: #242424;
+  .sale{
+    position: relative;
+    width: 90%;
+
+    img{
+      width: 100%;
+    }
+
+    .overlay{
+      background-color: rgba(0,0,0,0.5);
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      transition: all 1s ease-in-out;
+      h3{
+        position: absolute;
+        top: 39%;
+        left: 45%;
+        transform: translateX(-50px);
+        padding: 10px 20px;
+        background-color: #2f2825b8;
+        color: white;
+        font-size: 25px;
+        text-transform: uppercase;
+      }
+    }
+
   }
 }
